@@ -1,8 +1,4 @@
-# React + Vite
+# Gerich Restaurant Landing Page
+### [Live Site](https://merry-otter-8d19f7.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
